@@ -1,7 +1,8 @@
 PhotoPrism: Browse your life in pictures
 ========================================
 
-[![License: GPL](https://img.shields.io/badge/license-GPL-blue.svg)][license]
+[![License: GPL](https://img.shields.io/badge/license-GPL-blue.svg)][![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fphotoprism%2Fphotoprism.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fphotoprism%2Fphotoprism?ref=badge_shield)
+[license]
 [![Code Quality](https://goreportcard.com/badge/github.com/photoprism/photoprism)][goreport]
 [![Build Status](https://travis-ci.org/photoprism/photoprism.png?branch=develop)][ci]
 [![Documentation](https://readthedocs.org/projects/photoprism-docs/badge/?version=latest&style=flat)][docs]
@@ -90,3 +91,7 @@ See [SPONSORS.md](SPONSORS.md) for details.
 [issuehunt]: https://issuehunt.io/repos/119160553
 [chat]: https://gitter.im/browseyourlife/community
 [twitter]: https://twitter.com/browseyourlife
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fphotoprism%2Fphotoprism.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fphotoprism%2Fphotoprism?ref=badge_large)
